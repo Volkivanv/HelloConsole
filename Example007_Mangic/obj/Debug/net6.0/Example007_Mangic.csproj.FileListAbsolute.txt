@@ -1,0 +1,15 @@
+C:\Users\Ivan\Cloud@Mail.Ru\geekbrains\ExapmplesC#\Example007_Mangic\bin\Debug\net6.0\Example007_Mangic.exe
+C:\Users\Ivan\Cloud@Mail.Ru\geekbrains\ExapmplesC#\Example007_Mangic\bin\Debug\net6.0\Example007_Mangic.deps.json
+C:\Users\Ivan\Cloud@Mail.Ru\geekbrains\ExapmplesC#\Example007_Mangic\bin\Debug\net6.0\Example007_Mangic.runtimeconfig.json
+C:\Users\Ivan\Cloud@Mail.Ru\geekbrains\ExapmplesC#\Example007_Mangic\bin\Debug\net6.0\Example007_Mangic.dll
+C:\Users\Ivan\Cloud@Mail.Ru\geekbrains\ExapmplesC#\Example007_Mangic\bin\Debug\net6.0\Example007_Mangic.pdb
+C:\Users\Ivan\Cloud@Mail.Ru\geekbrains\ExapmplesC#\Example007_Mangic\obj\Debug\net6.0\Example007_Mangic.csproj.AssemblyReference.cache
+C:\Users\Ivan\Cloud@Mail.Ru\geekbrains\ExapmplesC#\Example007_Mangic\obj\Debug\net6.0\Example007_Mangic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\Cloud@Mail.Ru\geekbrains\ExapmplesC#\Example007_Mangic\obj\Debug\net6.0\Example007_Mangic.AssemblyInfoInputs.cache
+C:\Users\Ivan\Cloud@Mail.Ru\geekbrains\ExapmplesC#\Example007_Mangic\obj\Debug\net6.0\Example007_Mangic.AssemblyInfo.cs
+C:\Users\Ivan\Cloud@Mail.Ru\geekbrains\ExapmplesC#\Example007_Mangic\obj\Debug\net6.0\Example007_Mangic.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Cloud@Mail.Ru\geekbrains\ExapmplesC#\Example007_Mangic\obj\Debug\net6.0\Example007_Mangic.dll
+C:\Users\Ivan\Cloud@Mail.Ru\geekbrains\ExapmplesC#\Example007_Mangic\obj\Debug\net6.0\refint\Example007_Mangic.dll
+C:\Users\Ivan\Cloud@Mail.Ru\geekbrains\ExapmplesC#\Example007_Mangic\obj\Debug\net6.0\Example007_Mangic.pdb
+C:\Users\Ivan\Cloud@Mail.Ru\geekbrains\ExapmplesC#\Example007_Mangic\obj\Debug\net6.0\Example007_Mangic.genruntimeconfig.cache
+C:\Users\Ivan\Cloud@Mail.Ru\geekbrains\ExapmplesC#\Example007_Mangic\obj\Debug\net6.0\ref\Example007_Mangic.dll
