@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ivan\\Cloud@Mail.Ru\\geekbrains\\ExapmplesC#\\Example001_HelloConsole\\Example001_HelloConsole.csproj": {}
+    "c:\\Users\\Ivan\\Cloud@Mail.Ru\\geekbrains\\ExapmplesC#\\Example001_HelloConsole\\Example001_HelloConsole.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ivan\\Cloud@Mail.Ru\\geekbrains\\ExapmplesC#\\Example001_HelloConsole\\Example001_HelloConsole.csproj": {
+    "c:\\Users\\Ivan\\Cloud@Mail.Ru\\geekbrains\\ExapmplesC#\\Example001_HelloConsole\\Example001_HelloConsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ivan\\Cloud@Mail.Ru\\geekbrains\\ExapmplesC#\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
+        "projectUniqueName": "c:\\Users\\Ivan\\Cloud@Mail.Ru\\geekbrains\\ExapmplesC#\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
         "projectName": "Example001_HelloConsole",
-        "projectPath": "C:\\Users\\Ivan\\Cloud@Mail.Ru\\geekbrains\\ExapmplesC#\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
+        "projectPath": "c:\\Users\\Ivan\\Cloud@Mail.Ru\\geekbrains\\ExapmplesC#\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
         "packagesPath": "C:\\Users\\Ivan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ivan\\Cloud@Mail.Ru\\geekbrains\\ExapmplesC#\\Example001_HelloConsole\\obj\\",
+        "outputPath": "c:\\Users\\Ivan\\Cloud@Mail.Ru\\geekbrains\\ExapmplesC#\\Example001_HelloConsole\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ivan\\AppData\\Roaming\\NuGet\\NuGet.Config"
